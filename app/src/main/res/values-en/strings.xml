@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">I.M.C</string>
+    <string name="PESO">WEIGHT (KG)</string>
+    <string name="ALTURA">HEIGHT (CM)</string>
+    <string name="CALCULAR">CALCULATE</string>
+    <string name="ACERCA">ABOUT</string>
+    <string name="INGRESE">ENTER VALUES</string>
+    <string name="DelgadezSevera">Severe Thinness</string>
+    <string name="DelgadezModerada">" Moderate Thinness"</string>
+    <string name="DelgadezAceptable">Thinness Acceptable</string>
+    <string name="PesoNormal">Normal weight</string>
+    <string name="Sobrepeso">Overweight</string>
+    <string name="ObesoTipoI">Obese: Type I</string>
+    <string name="ObesoTipoII">Obese: Type II</string>
+    <string name="ObesoTipoIII">Obese: Type III</string>
+    <string name="Regresar">TO RETURN</string>
+    <string name="UniversidadMariana">Mariana University</string>
+    <string name="IngenieriaDeSistemas">Systems engineer</string>
+    <string name="NovenoSemestre">Ninth semester</string>
+    <string name="INFORMAR">INFORMATION</string>
+</resources>

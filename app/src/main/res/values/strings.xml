@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">I.M.C</string>
+    <string name="PESO">PESO (KG)</string>
+    <string name="ALTURA">ESTATURA  (CM)</string>
+    <string name="CALCULAR">CALCULAR</string>
+    <string name="ACERCA">ACERCA DE</string>
+    <string name="INGRESE">INGRESE VALORES</string>
+    <string name="DelgadezSevera">Infrapeso: Delgadez Severa</string>
+    <string name="DelgadezModerada">Infrapeso: Delgadez Moderada</string>
+    <string name="DelgadezAceptable">Infrapeso: Delgadez Aceptable</string>
+    <string name="PesoNormal">Peso Normal</string>
+    <string name="Sobrepeso">Sobrepeso</string>
+    <string name="ObesoTipoI">Obeso: Tipo I</string>
+    <string name="ObesoTipoII">Obeso: Tipo II</string>
+    <string name="ObesoTipoIII">Obeso: Tipo III</string>
+    <string name="Regresar">REGRESAR</string>
+    <string name="UniversidadMariana">Universidad Mariana</string>
+    <string name="IngenieriaDeSistemas">Ingeniería De Sistemas</string>
+    <string name="NovenoSemestre">Noveno Semestre</string>
+    <string name="INFORMAR">INFORMAR</string>
+</resources>
